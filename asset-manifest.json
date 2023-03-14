@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Blockhouse_React_Tsx_Mui_Structured2/static/css/main.3c600f9a.css",
-    "main.js": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/main.916fecf5.js",
+    "main.css": "/Blockhouse_React_Tsx_Mui_Structured2/static/css/main.906dd72c.css",
+    "main.js": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/main.a11e2f1a.js",
     "static/js/787.3a39cd02.chunk.js": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/787.3a39cd02.chunk.js",
     "static/media/blockHouseBackground.png": "/Blockhouse_React_Tsx_Mui_Structured2/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
     "index.html": "/Blockhouse_React_Tsx_Mui_Structured2/index.html",
-    "main.3c600f9a.css.map": "/Blockhouse_React_Tsx_Mui_Structured2/static/css/main.3c600f9a.css.map",
-    "main.916fecf5.js.map": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/main.916fecf5.js.map",
+    "main.906dd72c.css.map": "/Blockhouse_React_Tsx_Mui_Structured2/static/css/main.906dd72c.css.map",
+    "main.a11e2f1a.js.map": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/main.a11e2f1a.js.map",
     "787.3a39cd02.chunk.js.map": "/Blockhouse_React_Tsx_Mui_Structured2/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c600f9a.css",
-    "static/js/main.916fecf5.js"
+    "static/css/main.906dd72c.css",
+    "static/js/main.a11e2f1a.js"
   ]
 }
